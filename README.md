@@ -1,4 +1,4 @@
-You will build a machine learning model to predict whether a passenger survived the Titanic disaster based on features like age, gender, ticket class, etc.
+Build a machine learning model to predict whether a passenger survived the Titanic disaster based on features like age, gender, ticket class, etc.
 Before starting, install these tools:
 Python (3.7 or higher)
 VS Code
