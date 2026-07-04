@@ -4,3 +4,7 @@ Python (3.7 or higher)
 Jupyter Notebook.
 Required packages: pandas numpy matplotlib seaborn scikit-learn.
 Predict survival (Survived) of passengers using Titanic dataset (train.csv, test.csv) with a visual output (like age distribution or survival by gender).
+Used Random Forest Classifier algorithm from sklearn.
+Used dataset from kaggle.com
+Used Label Encoder for encoding.
+
